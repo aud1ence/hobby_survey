@@ -1,0 +1,16 @@
+.card:hover{
+    border: 3px solid cornflowerblue;
+}
+
+.btn {
+    width: 100%;
+}
+
+.selected {
+    border: 3px solid cornflowerblue;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
